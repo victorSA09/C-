@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <input id="nome" type="text" placeholder="">
+        <input id="nasc" type="date">
+        <button id="sub">Submit</button>
+    </div>
+    <div id="teste"></div>
+    <script>
+       document.getElementById("sub").onclick = () =>
+        {
+
+            let b = 
+            {
+                'nome': document.getElementById('nome').value,
+                'nasc': document.getElementById('nasc').value
+            }
+
+            document.getElementById("teste").innerText = JSON.stringify(b);
+            return
+            fetch("https://localhost:5001/WeatherForecast",
+            {
+                'method': 'POST',
+                //'mode': 'cors',
+                'redirect':'follow',
+                'headers': {
+                    'Content-type':'aplication/json',
+                    'Accept': 'aplication/json'
+                },
+                'body': JSON.stringify(b)
+            })
+            .then(x => x.json())
+            .then(x =>
+             {
+
+               document.getElementById("teste").innerText = x.nome;
+            })
+            /*
+            fetch("https://random.dog/woof.json")
+            .then(x => x.json())
+            .then(x =>
+             {
+
+                let sp = document.createElement("span")
+                sp.innerHTML= x.quote
+                sp.style.fontStyle = "italic"
+                document.getElementById("teste").append(sp)
+            })
+            */
+            /*
+            fetch("https://random.dog/woof.json")
+            .then(x => x.json())
+            .then(x =>
+             {
+
+                let im = document.createElement("img")
+                im.src = x.url
+                document.getElementById("teste").append(im)
+            })
+            */
+          /*  
+            //document.getElementById("teste").innerHTML = "Olá"//subscreve a div se estiver = e com += concatena com o que existe na div// pode se colocar códigos html no campo
+            let s = document.createElement("span")
+            s.innerHTML = "Olá"
+            document.getElementById("teste").append(s)
+
+          */  
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfo.cs
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\appsettings.json
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Nova pasta.exe
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Nova pasta.deps.json
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.json
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.dev.json
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Nova pasta.dll
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Nova pasta.pdb
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\autologon\Desktop\Nova pasta\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\staticwebassets\Nova pasta.StaticWebAssets.Manifest.cache
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\staticwebassets\Nova pasta.StaticWebAssets.xml
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\scopedcss\bundle\Nova pasta.styles.css
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.RazorTargetAssemblyInfo.cache
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.CopyComplete
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.dll
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.pdb
+C:\Users\autologon\Desktop\Nova pasta\obj\Debug\net5.0\Nova pasta.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7bJ6TqJXjm/QB3trMNNwDCbemAWmAO+LZ3jkgKySZVGFQSs7y25AYsSaL5V4LeEWZbp4WPsg7dx+3Vc9+yMJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\autologon\\Desktop\\Nova pasta\\Nova pasta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\autologon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
